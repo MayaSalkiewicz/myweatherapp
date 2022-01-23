@@ -41,3 +41,9 @@ li {
   position: relative;
   top: -25px;
 }
+.author-link {
+  padding: 1px;
+  margin: 10px auto;
+  max-width: 600px;
+  color: pink;
+}
